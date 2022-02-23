@@ -2,4 +2,4 @@
 
 deployemnet is going on !!
 
-error check code is deoploed to both tomcat and ansible 
+Deployment through jenkins on docker 
